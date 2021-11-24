@@ -1,0 +1,4 @@
+Icons attributed to:
+"photo.png": https://www.flaticon.com/authors/freepik
+"video.png": https://www.flaticon.com/authors/kiranshastry
+"exit.png": https://www.flaticon.com/authors/pixel-perfect
