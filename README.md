@@ -1,5 +1,5 @@
 # IRNC
-GUI application for Raspberry PI which allows simultaneous manipulation of infrared and nightvision cameras
+GUI application for Raspberry PI which allows simultaneous manipulation of infrared and nightvision cameras.
 IRNC stands for "InfraRed and Nightvision/Normal (cameras) Combined".
 
 # Why
